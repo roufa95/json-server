@@ -1,0 +1,47 @@
+{
+  "contracts": [
+    {
+      "contractNumber": "1",
+      "name": "contract 1",
+      "startDate": "Tue Apr 28 16:58:03 GMT+01:00 2020",
+      "expirationDate": "Tue Apr 29 16:58:03 GMT+01:00 2020"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "vehicleName": "camion 1",
+      "vehicleModel": "Mercedes ",
+      "vehiclePlateNumber": "8-AAB-503",
+      "vehicleCapacity": 150
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 2",
+      "vehicleModel": "Nissan",
+      "vehiclePlateNumber": "8-AAB-504",
+      "vehicleCapacity": 102.52
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 3",
+      "vehicleModel": "Citroene",
+      "vehiclePlateNumber": "8-AAB-505",
+      "vehicleCapacity": 60.2
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 4",
+      "vehicleModel": "Volvo ",
+      "vehiclePlateNumber": "8-AAB-506",
+      "vehicleCapacity": 145.2
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 6",
+      "vehicleModel": "Volvo ",
+      "vehiclePlateNumber": "8-AAB-500",
+      "vehicleCapacity": 52.2
+    }
+  ]
+}
