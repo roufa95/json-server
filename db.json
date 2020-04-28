@@ -1,0 +1,19 @@
+{
+  "contracts": [
+    {
+      "contractNumber": "1",
+      "name": "contract 1",
+      "startDate": "",
+      "expirationDate": ""
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "vehicleName": "nameX",
+      "vehicleModel": "BMW",
+      "vehiclePlateNumber": "102030",
+      "vehicleCapacity": 100.2
+    }
+  ]
+}
