@@ -3,8 +3,8 @@
     {
       "contractNumber": "1",
       "name": "contract 1",
-      "startDate": "Tue Apr 28 16:58:03 GMT+01:00 2020",
-      "expirationDate": "Tue Apr 29 16:58:03 GMT+01:00 2020"
+      "startDate": "2020-04-28T15:58:03",
+      "expirationDate": "2020-04-29T15:58:03"
     }
   ],
   "vehicles": [
