@@ -10,9 +10,30 @@
   "vehicles": [
     {
       "id": 1,
-      "vehicleName": "nameX",
-      "vehicleModel": "BMW",
-      "vehiclePlateNumber": "102030",
+      "vehicleName": "camion 1",
+      "vehicleModel": "Mercedes ",
+      "vehiclePlateNumber": "8-AAB-503",
+      "vehicleCapacity": 100.2
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 2",
+      "vehicleModel": "Nissan",
+      "vehiclePlateNumber": "8-AAB-504",
+      "vehicleCapacity": 100.2
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 3",
+      "vehicleModel": "Citroene",
+      "vehiclePlateNumber": "8-AAB-505",
+      "vehicleCapacity": 100.2
+    },
+	{
+      "id": 1,
+      "vehicleName": "camion 4",
+      "vehicleModel": "Volvo ",
+      "vehiclePlateNumber": "8-AAB-506",
       "vehicleCapacity": 100.2
     }
   ]
