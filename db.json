@@ -1,6 +1,7 @@
 {
   "contracts": [
     {
+      "id":1,
       "contractNumber": "1",
       "name": "contract 1",
       "startDate": "2020-04-28T15:58:03",
