@@ -1,11 +1,12 @@
 {
   "contracts": [
     {
-      "id":1,
-      "contractNumber": "1",
+      "contractNumber": "11425",
       "name": "contract 1",
-      "startDate": "2020-04-28T15:58:03",
-      "expirationDate": "2020-04-29T15:58:03"
+      "creationDate": "2020-04-28T15:58:03",
+      "expirationDate": "2020-04-29T15:58:03",
+      "maxNbOfCycle": 10,
+      "vehiclePlateNumber": "8-AAB-503"
     }
   ],
   "vehicles": [
