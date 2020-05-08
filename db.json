@@ -9,6 +9,16 @@
       "name": "string",
       "startdate": "2020-05-08T22:55:59.034Z",
       "status": "ACTIVE"
+    },
+    {
+      "capacity": 0,
+      "companyId": 0,
+      "enddate": "2020-05-08T22:55:59.034Z",
+      "id": 0,
+      "mad": 0,
+      "name": "string",
+      "startdate": "2020-05-08T22:55:59.034Z",
+      "status": "ACTIVE"
     }
   ],
   "vehicles": [
