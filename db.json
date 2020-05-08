@@ -11,34 +11,44 @@
   ],
   "vehicles": [
     {
-      "vehiclePlateNumber": "8-AAB-503",
-      "vehicleName": "camion 1",
-      "vehicleModel": "Mercedes ",
-      "vehicleCapacity": 150
+      "companyId": 0,
+      "id": 0,
+      "name": "camion 0",
+      "plate": "8-AAB-503",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
     },
     {
-      "vehiclePlateNumber": "8-AAB-504",
-      "vehicleName": "camion 2",
-      "vehicleModel": "Nissan",
-      "vehicleCapacity": 102.52
+      "companyId": 0,
+      "id": 1,
+      "name": "camion 1",
+      "plate": "8-AAB-504",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
     },
     {
-      "vehiclePlateNumber": "8-AAB-505",
-      "vehicleName": "camion 3",
-      "vehicleModel": "Citroene",
-      "vehicleCapacity": 60.2
+      "companyId": 0,
+      "id": 2,
+      "name": "camion 2",
+      "plate": "8-AAB-505",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
     },
     {
-      "vehiclePlateNumber": "8-AAB-506",
-      "vehicleName": "camion 4",
-      "vehicleModel": "Volvo ",
-      "vehicleCapacity": 145.2
+      "companyId": 0,
+      "id": 3,
+      "name": "camion 3",
+      "plate": "8-AAB-502",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
     },
     {
-      "vehiclePlateNumber": "8-AAB-500",
-      "vehicleName": "camion 6",
-      "vehicleModel": "Volvo ",
-      "vehicleCapacity": 52.2
+      "companyId": 0,
+      "id": 4,
+      "name": "camion 4",
+      "plate": "8-AAB-503",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
     }
   ]
 }
