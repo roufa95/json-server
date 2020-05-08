@@ -1,0 +1,54 @@
+{
+  "contracts": [
+    {
+      "contractNumber": "11425",
+      "name": "contract 1",
+      "creationDate": "2020-04-28T15:58:03",
+      "expirationDate": "2020-04-29T15:58:03",
+      "maxNbOfCycle": 10,
+      "vehiclePlateNumber": "8-AAB-503"
+    }
+  ],
+  "vehicles": [
+    {
+      "companyId": 0,
+      "id": 0,
+      "name": "camion 0",
+      "plate": "8-AAB-503",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
+    },
+    {
+      "companyId": 0,
+      "id": 1,
+      "name": "camion 1",
+      "plate": "8-AAB-504",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
+    },
+    {
+      "companyId": 0,
+      "id": 2,
+      "name": "camion 2",
+      "plate": "8-AAB-505",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
+    },
+    {
+      "companyId": 0,
+      "id": 3,
+      "name": "camion 3",
+      "plate": "8-AAB-502",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
+    },
+    {
+      "companyId": 0,
+      "id": 4,
+      "name": "camion 4",
+      "plate": "8-AAB-503",
+      "status": "ACTIVE",
+      "type": "TRACTOR"
+    }
+  ]
+}
